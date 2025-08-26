@@ -1,21 +1,22 @@
 body{
-    color: white;
-    background-color: rgb(0, 4, 124);
-    font-family: "Chakra Petch", sans-serif;
-   margin: 50px;}
+    color: rgb(0, 0, 0);
+    background-color: rgb(222, 211, 196);
+    font-family: " <link href="https://fonts.googleapis.com/css2?family=Coda:wght@400;800&display=swap" rel="stylesheet">
 
-h1{font-size: 40px;}
+    margin: 50px;}
+
+h1 {font-size: 40px;}
 
 p{font-size: 20px;}
 
 header{
-    border-bottom: solid 2px rgb(186, 216, 255);
+    border-bottom: solid 2px rgb(179, 212, 255);
     padding: 20px;
     font-size: 25px;
-    color: rgb(177, 211, 255);}
+    color: rgb(81, 104, 89);}
 
 .chamada{
-    background: rgb(243, 255, 161);
+    background: rgb(144, 179, 148);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
