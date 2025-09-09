@@ -63,6 +63,8 @@ img {
   display: flex;
   overflow-x: auto;
   gap: 10px;
+  color: rgb(106, 29, 29);
+}
 }
 
 section {
@@ -72,8 +74,10 @@ section {
 
 .categoriavideos img {
      opacity: 0.5;
+     color: rgb(106, 29, 29);
 }
 
 .categoriavideos img:hover {
      opacity: 1.0;
+     color: rgb(101, 1, 1);
 }
